@@ -28,7 +28,7 @@ docker compose up
 ```
 
 Create project and web app in:
-`localhost:8080`
+`http://localhost:8080`
 
 Configure the .env file with client id of the app created.
 
