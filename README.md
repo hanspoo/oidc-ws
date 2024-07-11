@@ -15,7 +15,7 @@ npm i -g nx
 Then
 
 ```
-git clone
+git clone https://github.com/hanspoo/oidc-ws
 cd oidc-ws
 npm install
 ```
@@ -29,6 +29,8 @@ docker compose up
 
 Create project and web app in:
 `localhost:8080`
+
+Configure the .env file with client id of the app created.
 
 Start front end
 
